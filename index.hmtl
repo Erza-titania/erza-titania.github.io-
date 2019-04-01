@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mistérios da Terra Média</title>
+     <meta name="viewport" content="width=device-width initial-scale=1">
+      <link rel="stylesheet" type="text/css" href="estilo.css" >
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Germania+One|Source+Serif+Pro" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="normalise.css" >
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+      <link rel="shortcut icon" href="icon.ico" />
+  </head>
+  
+  <body>
+    
+    <nav>
+      <a href="#">Mistérios da Terra Média</a>
+      <ul>
+       
+        <li><a href="biografia.html">BIOGRAFIA</a></li>
+        <li><a href="obras.html">OBRAS</a></li>
+        <li><a href="galeria.html">GALERIA</a></li>
+        <li><a href="filmes.html">FILMOGRAFIA</a></li>
+        <li><a href="index.html">INICIO</a></li>
+     
+      </ul>
+      
+    </nav>
+    
+    <header>
+     <h1 class="red">Mistérios da Terra Média</h1>
+      <h1>J. R. R. Tolkien</h1>
+      <p>John Ronald Reuel Tolkien, (3 janeiro 1892 – 2 de Setembro de 1973) foi um Inglês escritor, poeta, filólogo e professor universitário, mais conhecido como o autor do clássico das obras O Hobbit , O Senhor dos Anéis e O Silmarillion.
+      </p>
+    <a href="https://pt.wikipedia.org/wiki/J._R._R._Tolkien" class="botao">VER MAIS</a>
+    </header>
+    <div class="fonte"> 
+     </div>
+    <section id="mais">
+        <h2 class="red">Um pequeno resumo</h2>
+        <p>
+            John Ronald Reuel Tolkien, conhecido como J. R. R. Tolkien, nasceu em Bloemfontein, África do Sul, no dia 3 de janeiro de 1892. Filho do inglês Arthur Tolkien, bancário que trabalhava no Bank of África, e de Mabel Suffield Tolkien, viveu na África do Sul até a morte de seu pai em 1896, ano em que se mudou com sua mãe e seu irmão para a cidade de Birminghan, na Inglaterra. A conversão de sua mãe da Igreja Anglicana para o catolicismo lhe marcou profundamente, tornando-se também um católico fervoroso. Em 1908 ingressou no Exeter College, da Universidade de Oxford e logo mostrou interesse pela filologia e por antigas sagas e lendas nórdicas.
+            
+        </p>
+</body>
+</html>
